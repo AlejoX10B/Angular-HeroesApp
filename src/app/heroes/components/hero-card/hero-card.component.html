@@ -15,7 +15,7 @@
   </mat-card-content>
 
   <mat-card-actions>
-    <button mat-button color="warn">Leer más...</button>
-    <button mat-button>Editar</button>
+    <a mat-button [routerLink]="['/heroes', hero.id]" color="warn">Leer más...</a>
+    <a mat-button [routerLink]="['/heroes/edit', hero.id]">Editar</a>
   </mat-card-actions>
 </mat-card>
