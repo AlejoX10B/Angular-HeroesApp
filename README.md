@@ -1,6 +1,9 @@
 # HeroesApp
 Proyecto de uso de Angular Material, con lógica para hacer un CRUD con temática de super héroes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+
+URL: https://github.com/AlejoX10B/Angular-HeroesApp
 
 ## Development server
 Para que la aplicación se pueda ejecutar, se debe de instalar json-server. Este módulo permite
